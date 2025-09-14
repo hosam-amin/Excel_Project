@@ -1,5 +1,5 @@
 # My Excel Data Analytics Project
-**Welcome!**Throughout this project, I focused on **cleaning, transforming, and visualizing real-world salary data** to uncover meaningful insights. Using **interactive dashboards** and **detailed charts**, I showcased both my **technical skills** and my ability to **interpret data for informed professional decisions**.
+**Welcome**! Throughout this project, I focused on **cleaning, transforming, and visualizing real-world salary data** to uncover meaningful insights. Using **interactive dashboards** and **detailed charts**, I showcased both my **technical skills** and my ability to **interpret data for informed professional decisions**.
 
 
 ## Salary Dashboard
