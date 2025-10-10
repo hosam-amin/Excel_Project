@@ -9,7 +9,7 @@ This Salary Dashboard provides an interactive view of data job salaries, helping
 ![1_Salary_Dashboard_Final](Project_Materials/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 
-## Salary Analysis
+## Salary Analysis:
 
 As someone exploring the data science job market, I aimed to uncover insights on the most in-demand roles and skills. This analysis focuses on understanding which skills top employers value most and how they impact salary potential.
 
